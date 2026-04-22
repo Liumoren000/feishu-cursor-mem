@@ -1,3 +1,4 @@
+---
 name: prd-writer
 description: Structures raw product ideas into executable PRDs using a staged workflow. Use when users mention product ideas, PRD writing, requirement documents, feature definition, requirement review, or incremental PRD updates.
 ---
